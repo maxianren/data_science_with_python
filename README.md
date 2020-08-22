@@ -1,1 +1,1 @@
-# test-DS-task-MxY
+# data science exercise collection
